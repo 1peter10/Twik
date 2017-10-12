@@ -25,7 +25,7 @@ along with Twik.  If not, see <http://www.gnu.org/licenses/>.
 """
 
 from hashlib import sha1
-from util import Util
+from twik.util import Util
 import hmac
 import getpass
 import argparse
